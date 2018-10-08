@@ -1,1 +1,0 @@
-This contains Leon Valencia's solution to assignment 2 of the Coursera course "Single Page Web Applications with AngularJS".
